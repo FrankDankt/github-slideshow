@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Lalabulla
+Lalaballa
 Use the left arrow to go back!
